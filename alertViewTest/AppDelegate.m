@@ -4,7 +4,7 @@
 //
 //  Created by A12128 on 2013/07/03.
 //  Copyright (c) 2013年 A12128. All rights reserved.
-//
+//xxxxxxxxxx
 
 #import "AppDelegate.h"
 
